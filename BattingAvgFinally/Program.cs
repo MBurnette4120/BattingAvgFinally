@@ -26,6 +26,9 @@ namespace BattingAvgFinally
                 Console.WriteLine($"Your batting average is {batAvg}");
 
 
+                //this is code for a batting average method
+
+
 
             }
         }
